@@ -6,10 +6,10 @@ This repository contains an income statement dashboard developed using Power BI.
 -	Please note that the dataset used in this repository is specific to Microsoft's income statements for the mentioned fiscal years. If you plan to use the dashboard with different income statement data, you will need to modify the dataset accordingly.
 ## Project Structure
 This repository is structured as follows:
--	Readme file: README.md
+-	Readme file: [README.md](https://github.com/chinmoy2306/Income_statement_analytics/blob/16bd2126a1cff2ac6a9a502703126b8f4f3e9416/README.md)
 -	Raw dataset file:
-	- FinancialStatementFY23Q2.xlsx
-- Income_statement_dashboard.pbix:
+	- [FinancialStatementFY23Q2.xlsx](https://github.com/chinmoy2306/Income_statement_analytics/blob/16bd2126a1cff2ac6a9a502703126b8f4f3e9416/FinancialStatementFY23Q2.xlsx)
+- [Income_statement_dashboard.pbix](https://github.com/chinmoy2306/Income_statement_analytics/blob/16bd2126a1cff2ac6a9a502703126b8f4f3e9416/Income_statement_dashboard.pbix):
 This power bi file contains the dashboard comprising of various visualizations performed on the raw dataset.
 Feel free to explore the Income_statement_dashboard.pbix file to view the specific visualizations used in this analysis.
 ## Dashboard Components
@@ -23,7 +23,7 @@ The income statement dashboard offers a comprehensive analysis of financial perf
 ## Usage
 To explore the income statement analytics dashboard:
 
-1.	Clone the repository: git clone https://github.com/your-username/your-repository.git
+1.	Clone the repository: git clone https://github.com/chinmoy2306/Income_statement_analytics.git
 2.	Open Power BI Desktop or Power BI Online.
 3.	Import the income statement data for FY-21 and FY-22 into Power BI.
 4.	Open the Power BI project file (income_statement_dashboard.pbix) located in the repository.
