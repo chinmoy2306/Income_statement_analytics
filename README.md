@@ -21,7 +21,7 @@ The income statement dashboard offers a comprehensive analysis of financial perf
 -	Net Income Analysis: Provides insights into various expense components and income components that leads to net income figures.
 -	Earnings per Share (EPS): Tracks EPS trends over the specified financial years.
 ## Screenshots
-![image](https://github.com/chinmoy2306/Income_statement_analytics/blob/9c38237daffb6b3f5b2719158bb0e42029a1fa12/Screenshot.jpg)
+![image](https://github.com/chinmoy2306/Income_statement_analytics/blob/20e152c769b1349a44677e26f4bc4bd663253e1f/Screenshot.jpg)
 ## Usage
 To explore the income statement analytics dashboard:
 
